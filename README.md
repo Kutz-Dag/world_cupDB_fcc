@@ -1,5 +1,9 @@
 # Database of Football World Cup 2014 - 2018
 
+<p align="center">
+ <img src="https://www.marketplace.org/wp-content/uploads/2018/07/GettyImages-453347919.jpg?fit=1800%2C1000" padding="8px"/> 
+</p>
+
 This was a project for freeCodeCamp.
 
 ## Project Instructions:
