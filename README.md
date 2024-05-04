@@ -4,7 +4,8 @@
  <img src="https://www.marketplace.org/wp-content/uploads/2018/07/GettyImages-453347919.jpg?fit=1800%2C1000" padding="8px"/> 
 </p>
 
-This was a project for freeCodeCamp. It involved creating a database of the Football World-Cups 2014, and 2018. And then 2 files to pass unit tests.
+This was a project for freeCodeCamp. It involved creating a database of the Football World Cup 2014 and Football World Cup 2018.
+Additionally, two files had to be created: one for inserting data and one for querying data.
 
 ## Project Instructions:
 
