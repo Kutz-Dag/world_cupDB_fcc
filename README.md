@@ -16,3 +16,7 @@ Additionally, two files had to be created: one for inserting data and one for qu
 - [x] Part 1: Create the Database using SQL built on PostgreSQL (worldcup.sql)
 - [x] Part 2: Insert the required data in a bash file (insert_data.sh)
 - [x] Part 3: Query the data to pass the user stories in a separate bash file (queries.sh)
+
+### freeCodeCamp project page link
+
+[freeCodeCamo-relational-database-build-a-world-cup-project](https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database)
